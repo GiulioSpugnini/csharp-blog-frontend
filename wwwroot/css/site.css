@@ -12,7 +12,10 @@ html {
     position: relative;
     min-height: 100%;
 }
-
+img_show{
+    max-width: 200px;
+    max-height: 200px;
+}
 body {
     margin-bottom: 60px;
     background-color: darkslategray;
